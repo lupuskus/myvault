@@ -1,1 +1,1 @@
-This folder should just be temporary
+The content in this folder should just be temporary
