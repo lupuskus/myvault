@@ -9,7 +9,4 @@ If using folders, I use the PARA structure.
 | Date       | Action                                                                                                                                         |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2025-04-03 | Set up myvault with Obsidian Git on Macbooc, iPhone and iPad. (Boox still to do as it will need git in Termux and cron after Termux autostart) |
-| 2025-04-04 | set git up in book and termux. all still manual.                                                                                                                                            |
-
-
-
+| 2025-04-04 | set git up in book and termux. all still manual |
