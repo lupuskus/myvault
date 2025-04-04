@@ -7,6 +7,6 @@
 
 |        | Person             | Source |
 | ------ | ------------------ | ------ |
-| Father |                    |        |
-| Mother |                    |        |
+| Father | [[Lothar Kuster]]  |        |
+| Mother | [[Irene Frels]]    |        |
 | Child  | [[Philipp Kuster]] |        |
