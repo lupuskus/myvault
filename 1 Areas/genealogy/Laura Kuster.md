@@ -9,6 +9,6 @@
 |        | Person              | Source |
 | ------ | ------------------- | ------ |
 | Father | [[Wolfgang Kuster]] |        |
-| Mother | [[Susanne Kuster]]  |        |
+| Mother | [[Susanne Straile]]  |        |
 | Spouse | [[Chris Freund]]    |        |
 | Child  | [[Louisa Freund]]   |        |

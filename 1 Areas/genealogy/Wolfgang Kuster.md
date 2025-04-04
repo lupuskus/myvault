@@ -9,4 +9,6 @@
 | ------ | ------------------ | ------ |
 | Father | [[Lothar Kuster]]  |        |
 | Mother | [[Irene Frels]]    |        |
+| Spouse | [[Susanne Straile]] |        |
 | Child  | [[Philipp Kuster]] |        |
+|        | [[Laura Kuster]]   |        |
