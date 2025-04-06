@@ -5,7 +5,7 @@ Unique ID: 202307160752
 tags:
   - country
 ---
-
+[[Country MOC]]
 ## Places
 - [Koh Samui](geo:9.5285113,99.9347221)
 - [Phuket](geo:7.9366015,98.352929)

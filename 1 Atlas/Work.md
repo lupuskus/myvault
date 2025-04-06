@@ -1,4 +1,8 @@
-[[MOC]]
+---
+tags:
+  - moc
+---
+
 ## Backlinks
 ```dataview 
 list from [[]] and !outgoing([[]]) 

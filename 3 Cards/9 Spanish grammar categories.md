@@ -1,3 +1,4 @@
+[[Spanish]]
 -  sustantivos
 	- género y número
 	- No es idéntico con sujeto 

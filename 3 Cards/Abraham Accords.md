@@ -1,3 +1,4 @@
+[[Israel]]
 Current Status:
 	- Diplomatic ties between Israel and UAE, Bahrain, Morocco, Sudan remain intact
 	- Economic cooperation continues (e.g., trade and investments)

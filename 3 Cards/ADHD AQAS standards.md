@@ -1,3 +1,4 @@
+[[ADHD]]
 - Adult ADHD is a valid diagnosis that can persist into adulthood associated with significant functional impairments.
 - Variability exists in quality of adult ADHD assessments and diagnosis. Standards are needed to ensure accurate diagnoses and optimal care.  
 - The UK Adult ADHD Network developed the Adult ADHD Assessment Quality Assurance Standard (AQAS)[1] to define standards for diagnostic assessments.

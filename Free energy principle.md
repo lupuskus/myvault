@@ -1,5 +1,5 @@
 - [[Energy]] is  [[information]]
-- The [[brain]] is trying to bind/minimise [[free energy]]/[[surprise]]/[[Prediction error]]
+- The [[Brain]] is trying to bind/minimise [[free energy]]/[[surprise]]/[[Prediction error]]
 - [[Active interference]]
 - [[Action]] increases [[resilience]]
 - [[Attachment]] shapes the [[expectation]] that things will be fine

@@ -1,3 +1,4 @@
+[[Entertainment]]
 ## Musicals
 - [[A monster calls]]
 - Tina Turner

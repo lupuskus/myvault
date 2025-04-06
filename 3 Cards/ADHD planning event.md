@@ -6,7 +6,7 @@ Created With: mem.ai
 
 # ADHD planning event
 
-[ADHD](https://mem.ai/m/ZGfPxt7CT1wjNyTxb5A2)
+[[ADHD]]
  planning event
 - Inefficient diary planning
 - DNAs

@@ -1,0 +1,5 @@
+---
+tags:
+  - moc
+---
+- [[Country]] template

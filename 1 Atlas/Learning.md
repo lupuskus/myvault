@@ -1,3 +1,9 @@
+---
+tags:
+  - moc
+---
+
+
 Got it, let's include "Uncommon Sense Teaching" by Barbara Oakley in the analysis. Here are summaries of the four books and their common messages and differences:
 
 ### 1. **[[Josh Waitzkin - The art of learning]]**

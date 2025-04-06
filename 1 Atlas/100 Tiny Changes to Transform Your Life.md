@@ -1,3 +1,5 @@
+[[Habits MOC]]
+
 - [100 tiny changes to transform your life: from the one-minute rule to pyjama yoga | Health & wellbeing | The Guardian](https://www.theguardian.com/lifeandstyle/2024/jan/01/100-tiny-changes-to-transform-your-life-from-the-one-minute-rule-to-pyjama-yoga)
 
 [[life improvement]]
