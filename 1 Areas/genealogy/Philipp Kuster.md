@@ -9,5 +9,5 @@
 |        | Person              | Source |
 | ------ | ------------------- | ------ |
 | Father | [[Wolfgang Kuster]] |        |
-| Mother | [[Susanne Kuster]]  |        |
-| Child  |                     |        |
+| Mother | [[Susanne Straile]] |        |
+| Spouse | [[Andrea]]          |        |
