@@ -1,3 +1,3 @@
-[[Running]]
+[[Running MOC]]
 
 ![[Interval variables.jpg]]

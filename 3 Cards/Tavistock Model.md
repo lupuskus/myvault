@@ -1,4 +1,4 @@
-[[Leadership]]
+[[Leadership MOC]]
 
 - [[Open Systems Theory]]
 - [[Psychoanalysis and organisations]]

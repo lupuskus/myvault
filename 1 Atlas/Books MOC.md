@@ -1,3 +1,7 @@
+---
+Tags: moc
+---
+
 ```dataview
 table tags
 WHERE contains(lower(tags), "book") 

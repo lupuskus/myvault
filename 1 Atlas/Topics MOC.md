@@ -2,6 +2,6 @@
 [[Philosophy of mind]]
 [[Addiction]]
 [[Productivity MOC]]
-[[Running]]
+[[Running MOC]]
 [[Gardening]]
 

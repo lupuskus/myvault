@@ -1,5 +1,5 @@
 #leadership 
-[[Leadership]]
+[[Leadership MOC]]
 [[Freedom]]
 In analogy to power
 - freedom to do

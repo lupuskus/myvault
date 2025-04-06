@@ -1,2 +1,2 @@
-[[Garden]]
+[[Garden MOC]]
 [[Recipe MOC]]

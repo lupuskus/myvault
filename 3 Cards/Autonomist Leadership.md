@@ -1,5 +1,5 @@
 [[Simon Western - Leadership]]
-[[Leadership]]
+[[Leadership MOC]]
 
 - Criticism of the concept of leadership from egalitarian movements
 - Where does leadership come from? From above, horizontally or from below?

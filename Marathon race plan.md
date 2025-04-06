@@ -1,4 +1,4 @@
-[[Running]]
+[[Running MOC]]
 Power 242 (235-246)
 Pace 6:06
 Water stations:

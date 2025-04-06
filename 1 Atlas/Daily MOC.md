@@ -1,3 +1,6 @@
+---
+Tags: moc
+---
 ## This month
 ``` dataview
 LIST

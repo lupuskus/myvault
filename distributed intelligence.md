@@ -1,4 +1,4 @@
 -  [[hive mind]], [[swarm intelligence]] in [[science fiction]]
 - distributed [[artificial intelligence]] (Internet as a whole, [[swarm intelligence]] in AI)
-- [[Collective intelligence]] in social science and [[Leadership]]
+- [[Collective intelligence]] in social science and [[Leadership MOC]]
 - [[Distributed consciousness]] and the [[Octopus]]

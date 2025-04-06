@@ -1,3 +1,6 @@
+---
+Tags: moc
+---
 ## Backlinks
 ```dataview 
 list from [[]] and !outgoing([[]]) 

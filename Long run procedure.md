@@ -1,4 +1,4 @@
-[[Running]]
+[[Running MOC]]
 [[Marathon hydration]]
 ## 120' before
 - Drink 500 ml (with or without electrolytes?)

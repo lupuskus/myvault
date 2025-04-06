@@ -1,2 +1,2 @@
 - [palladino plans](https://docs.google.com/document/d/e/2PACX-1vTXIwQE99RiAfVJOdjUIlhZj7_D0k0LHE0U9gDatL1p4TXEVZZ_Rj60S3wczDzgystpcIwOS4kKI6R9/pub?fbclid=IwZXh0bgNhZW0CMTEAAR2_GShl6s57o5owSgiNvH9KTepJP-bQxj4SGpgZi9QevuKvpLk5oyuRYw4_aem_ACUHFV7ZrP07_jBEizQ1Mw)
-[[Running]]
+[[Running MOC]]

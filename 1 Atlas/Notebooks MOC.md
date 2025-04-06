@@ -1,7 +1,10 @@
 ---
 Date created: 2023-06-11 06:59
 Unique ID: 202306110659
-Tags: notebook, journal
+tags:
+  - notebook
+  - journal
+  - moc
 ---
 ## Naming
 - the name of a notebook is simply its start year and month in the format NYYMM

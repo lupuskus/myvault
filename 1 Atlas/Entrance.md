@@ -1,4 +1,6 @@
-
+---
+Tags: moc
+---
 [[Obsidian]]
 [[Lanzarote]]
 [[Grayling - History of Philosophy]]

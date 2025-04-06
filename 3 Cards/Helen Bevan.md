@@ -4,7 +4,7 @@
 - Seven simple rules for leader (on Zotero)
 ## Backlinks
 [[Leading and Managing Improvement LMI]]
-[[Leadership]]
+[[Leadership MOC]]
 ```dataview 
 list from [[]] and !outgoing([[]]) 
 ```

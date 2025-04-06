@@ -1,5 +1,5 @@
 - [[Simon Western - Leadership]]
-- [[Simon Western]] (2019) _[[Leadership]]: A Critical Text_. 3rd edn. SAGE Publications. Available at: [https://books.google.co.uk/books?id=IfGKDwAAQBAJ](https://books.google.co.uk/books?id=IfGKDwAAQBAJ).
+- [[Simon Western]] (2019) _[[Leadership MOC]]: A Critical Text_. 3rd edn. SAGE Publications. Available at: [https://books.google.co.uk/books?id=IfGKDwAAQBAJ](https://books.google.co.uk/books?id=IfGKDwAAQBAJ).
 - Examples:
 	- Arab Spring
 	- Anti capitalist/eco/feminist movements

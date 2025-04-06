@@ -1,4 +1,4 @@
-[[Running]]
+[[Running MOC]]
 [[Travel MOC]]
 [[2024-04-14 Sun]]
 ## Info

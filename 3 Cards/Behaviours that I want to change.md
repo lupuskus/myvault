@@ -1,5 +1,5 @@
 
-[[Habits]]
+[[Habits MOC]]
 
 | Behaviour |[[Goals]]|Motivation|Ability|Prompts|
 |---|---|---|---|---|
