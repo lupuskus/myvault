@@ -1,0 +1,11 @@
+- Requirements for a [[local LLM]]
+	- can read local files
+	- can write local files
+	- can read as many file formats as possible (txt, md, pdf, doc[x], excel)
+- Workflow
+	- Install new [[LLM]]
+	- Train with local data (local data for training needs to be kept separate from LLM, so that a new LLM can work with the same data)
+- Programs
+	- [[GPT4all]]
+	- [[Alpaca]]
+	- llm (on homebrew)

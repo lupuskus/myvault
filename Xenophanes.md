@@ -1,0 +1,2 @@
+- Founder of the school of [[Elea]]
+- Basic substance: Soil (Erde)

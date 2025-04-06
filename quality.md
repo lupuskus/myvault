@@ -1,0 +1,1 @@
+- nobody can define it, so does it not exist? but we all know what it is [[Zen and the art - chap 15]]

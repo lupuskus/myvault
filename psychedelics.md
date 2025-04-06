@@ -1,0 +1,3 @@
+[[Psilocybin]]
+![[output-FEA69F31-D752-41D7-9DB7-27A2CC5420FC.jpeg]]
+![[processed-7AA4EB7B-2AC2-4C69-8F79-15B5FB8A41C7.jpeg]]

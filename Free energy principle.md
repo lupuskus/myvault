@@ -1,0 +1,7 @@
+- [[Energy]] is  [[information]]
+- The [[brain]] is trying to bind/minimise [[free energy]]/[[surprise]]/[[Prediction error]]
+- [[Active interference]]
+- [[Action]] increases [[resilience]]
+- [[Attachment]] shapes the [[expectation]] that things will be fine
+- Jeremy Holmes - Friston's free energy principle: new life for psychoanalysis?
+- https://doi.org/10.1192/bjb.2021.6

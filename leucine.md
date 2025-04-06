@@ -1,0 +1,1 @@
+- Mainly found in dairy. Stimulates [[mTOR]]

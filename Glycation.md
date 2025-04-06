@@ -1,0 +1,9 @@
+- [[AGE]] - advanced glycation end products
+- [[RAGE]] - AGE receptors
+- glycation of proteins is an indicator of aging
+- [[Glycotoxins]] created by heat reaction between proteins and sugars
+- [[Smoking]] increases glycation
+- [[Acarbose]] reduces glycation by blocking carbohydrate digestion
+- Toxic effects difficult to distinguish from other great produced toxins, [[nitrosamines]] 
+- [[Keto diet]] does not reduce glycation, (through ketones?)
+- eat low [[Glycemic index]] food

@@ -1,0 +1,5 @@
+- [[plato‘s dialectic]]
+- [[Aristotle’s dialectic]]
+- [[Hegel‘s dialectic]]
+- [[Marx‘s dialectic]]
+- [[Horkheimer, Adorno - The dialectic of enlightenment]]

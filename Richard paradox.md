@@ -1,0 +1,3 @@
+- *we define 'x is Richardian' as a shorthand way of stating 'x does not have the property designated by the defining expression with which x is correlated in the serially ordered set of definitions*
+- *n is Richardian if, and only if, n is not Richardian*
+- [[Ernst Nagel, James R Newman - Gödel’s proof]] p 62

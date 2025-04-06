@@ -1,0 +1,4 @@
+- Elicit found some results but not from medicine
+- chart gpt:
+	- Do you know of any publications that explore the non intuitive use of the word critical in medicine
+	- Nothing really

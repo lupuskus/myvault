@@ -1,0 +1,1 @@
+- Not adjusting tax thresholds with inflation and income raises leads to a hidden [[tax]] increase. Different types of [[Tax system]] aim to prevent this. 

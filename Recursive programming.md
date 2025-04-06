@@ -1,0 +1,3 @@
+- There is no problem in [[programming]] that seems to be a [[recursive]] problem that cannot be resolved in an [[iterative]] way
+- The recursive solution is  usually shorter
+- The iterative solution is usually faster

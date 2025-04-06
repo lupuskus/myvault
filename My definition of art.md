@@ -1,0 +1,2 @@
+- [[Art]] is a set of practices or standards of practices that aim at producing or defining objects that are deemed to be appreciated for their [[beauty]] or some other [[quality]] without any other purpose. 
+- This is a sociological or systemic definition. Is this all that there is?

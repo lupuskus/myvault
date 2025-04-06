@@ -1,0 +1,3 @@
+- Discovered by [[Paul Broca]] in the middle of the 18th century, after [[Marc Dax]] and before [[Carl Wernicke]]. [[Richard Hechel]] discovered the auditory gyrus. Planum temporale is 30% bigger on the left. 
+- Yakovlevian torque
+- Assuming that structure is an expression of function

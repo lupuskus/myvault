@@ -1,0 +1,14 @@
+- Earliest pipes in about 40000 BCE
+- music ubiquitous in Mesopotamia, Judaea, Greece and Rome
+- Preservation of chant in Constantinople
+- parallel chant in octaves and fifth
+- Drone chant
+- Changing between parallel and drone chant
+- Chords Perotin
+- Neumes 
+- Guido of arrezzo 
+- Hildegard von Bingen
+- Troubadours
+- Rhythm
+- Isorhythm Machaut
+- [[John Dunstaple]] - thirds and triads, contenance angloise 

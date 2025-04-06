@@ -1,0 +1,2 @@
+ versus [[Mindmap]]
+ Versus [[Zettelkasten]]

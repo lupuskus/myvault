@@ -1,0 +1,3 @@
+- [[male chauvinism]]
+- [[National chauvinism]]
+- [[Human chauvinism]]

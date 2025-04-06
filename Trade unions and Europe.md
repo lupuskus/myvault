@@ -1,0 +1,1 @@
+- History of [[Europe]] and [[trade unions]] in this [article](https://www.thearticle.com/how-jacques-delors-changed-british-history)

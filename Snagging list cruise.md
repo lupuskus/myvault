@@ -1,0 +1,12 @@
+
+- [x] Room cleanliness #WF ✅ 2024-11-03
+- [ ]  £20 #WF 
+- [x] passports ✅ 2024-11-03
+- [x] Internet for Sarah #WF ✅ 2024-11-04
+- [x] Blanc de Blanc Wine ✅ 2024-11-03
+- [x] Classic Stateroom Bar Set Up ✅ 2024-11-03
+- [ ] Dining times
+- [ ] £77?
+- [ ] Bangkok trip
+- [ ] Can we use our points for the spa?
+- [x] Tender tickets for koh samui ✅ 2024-11-04

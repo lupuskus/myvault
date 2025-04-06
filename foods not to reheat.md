@@ -1,0 +1,8 @@
+- [Foods that you should not reheat](https://apple.news/ABeVcLPCzTi-GW0Lni98SrQ)
+- Rice
+- Potatoes
+- Eggs 
+- Seafood
+- Mushrooms
+- Oils
+- Turnips

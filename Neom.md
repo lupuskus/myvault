@@ -1,0 +1,2 @@
+- New mega [[city]] in [[Saudi Arabia]]
+- [Article](https://www.bbc.co.uk/news/world-middle-east-68945445)

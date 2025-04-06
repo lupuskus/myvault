@@ -1,0 +1,2 @@
+- [[Imitation]] had to be broken before [[teaching]] could begin [[Zen and the art - chap 16]]
+- [[Judgement]] too ([[mindfulness]])

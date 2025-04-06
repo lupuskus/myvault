@@ -1,0 +1,4 @@
+- https://www.imaging-resource.com/PRODS/sony-a6000/sony-a6000-image-quality.htm?darkschemeovr=1#:~:text=Sony%20A6000%20Versus%20Sony%20NEX-7%20at%20ISO%20100
+- https://www.sony.co.uk/electronics/camera-lenses/sel55210#product_details_default
+- https://youtu.be/v1btLVPMhwo?si=fxUPmRAiJa3XdAau
+- https://photographylife.com/recommended-sony-a6000-settings

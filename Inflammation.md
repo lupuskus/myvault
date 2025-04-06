@@ -1,0 +1,4 @@
+- [[Inflammatory inde]]x of different foods/diets estimated by measuring [[IL-6]] after different meals
+- [[Obesity and inflammation]] is result from fat cell necrosis and macrophage activity
+- [[Foods that trigger inflammation]]
+- [[Anti inflammatory foods]]

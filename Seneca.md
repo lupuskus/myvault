@@ -1,0 +1,1 @@
+Seneca, the Roman philosopher, statesman, and playwright, was born around the year 4 BCE and died in 65 CE. He lived during the Roman Empire and was a prominent figure in Stoic philosophy. Seneca served as an advisor to Emperor [[Nero]], but their relationship eventually soured, leading to Seneca’s forced suicide in 65 CE.

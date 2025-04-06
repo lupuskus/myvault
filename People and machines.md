@@ -1,0 +1,3 @@
+- It is possible for machines to be totally unobservant
+- It is impossible for a human to act unobservant
+- [[Douglas R Hofstaetter - Gödel, Escher, Bach]]

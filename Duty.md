@@ -1,0 +1,4 @@
+- [[aretê]] - Duty to oneself - [[dharma]]
+- Modern duty - to others
+- [[Siegried Lenz - Die Deutschstunde]]
+- 

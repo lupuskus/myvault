@@ -1,0 +1,2 @@
+- Unclear. Possibly from manus and stupare https://www.etymonline.com/word/masturbation
+- Onanism from the [[bible]] story of [[Onan]] the son of [[Judah]] 

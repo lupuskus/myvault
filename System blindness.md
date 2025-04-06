@@ -1,0 +1,2 @@
+- There are [[systems]] with problems and people within the systems and there is system blindness
+- [[Daniel Goleman]]

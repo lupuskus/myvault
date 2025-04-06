@@ -1,0 +1,4 @@
+- Poincaré
+- I remember how dissatisfied I was when Herr Schneider developed E=mc^2 with reference to physicists “liking” [[conservation laws]]. 
+- also [[symmetry laws]]
+- [[does serendipity exist?]]

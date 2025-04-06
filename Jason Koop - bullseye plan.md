@@ -1,0 +1,8 @@
+- [Jason Koop - Bullseye plan](https://trainright.com/bullseye-nutrition-plan-ultramarathon-runners/)
+- Take a 60g SIS gel
+	- Carb content
+	- Sodium content 
+- Create rice ball with equivalent content
+- Calculate size of banana with same carb content (carry salt tablets with the required sodium)
+- Eat them every 20', or adjust accordingly
+- Drink 500 ml of water per hour

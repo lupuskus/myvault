@@ -1,0 +1,2 @@
+- https://www.themdu.com/guidance-and-advice/case-studies/applying-the-bolam-principle
+- *The Bolam principle establishes that a professional is required to exercise the ordinary skill of a competent practitioner in his/her field. A doctor will be judged to have come up to the required standard of clinical care if a reasonable body of medical opinion, albeit a minority one, would find his/her actions acceptable.*

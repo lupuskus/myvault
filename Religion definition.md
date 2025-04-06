@@ -1,0 +1,5 @@
+- is a system of rules that stem from a belief in superhuman order [[Yuval Noah Harari - Sapiens]]
+- it manifests in
+	- Institutional religion ([[Churches]], non-church groups)
+	- Religious practices ([[prayer]], song)
+	- Religious beliefs ([[God]], afterlife, [[sin]], [[kharma]])

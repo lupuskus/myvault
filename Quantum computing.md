@@ -1,0 +1,4 @@
+- [map of quantum computing](https://youtube.com/watch?v=-UlxHPIEVqA&feature=shareb)
+- superposition
+- Entanglement of qubits
+- Interference

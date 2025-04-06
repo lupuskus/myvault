@@ -1,0 +1,2 @@
+- *Above all, it is necessary for a person to have a true self-estimate, for we commonly think we can do more than we really can.* [[Seneca]], ON TRANQUILITY OF MIND, 5.2
+- *Das Höchste, wozu der Mensch gelangen kann, ist das Bewußtsein eigener Gesinnungen und Gedanken, das Erkennen seiner selbst, welches ihm die Einleitung gibt, auch fremde Gemütsarten innig zu erkennen.* * [[Johann Wolfgang von Goethe - Wilhelm Meister]]

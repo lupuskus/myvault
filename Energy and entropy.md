@@ -1,0 +1,3 @@
+- [YouTube video about entropy](https://youtu.be/DxL2HoqLbyA)
+- The earth is getting the same amount of [[energy]] that it emits, but the energy is reducing the earth’s [[entropy]].
+- If it does not emit all the energy it receives, [[global warming]] is the result.

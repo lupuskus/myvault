@@ -1,0 +1,15 @@
+- Best theory to explain different lifespan of animals
+- [[methionine]] and [[Salt]] intake mainly responsible
+- Anti oxidants are often mild oxidants ([[hormesis]]), eg. via oxidising the inhibitor of [[Nrf2]]
+- Antioxidant strategies:
+	- Exercise
+	- [[red wine]] (also non-alcoholic)
+	- Berries
+	- [[Green tea]]
+	- Cruciferous vegetables (via [[sulpharaphane]])
+- Pro oxidant foods
+	- Meat
+	- [[Alcohol]]
+	- (Saturated) fats
+	- [[Smoking]]
+	- Oxidised cholesterol (COPs, oxysterol), especially in chicken, some fish and ghee

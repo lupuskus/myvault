@@ -1,0 +1,3 @@
+- Condition for [[life]] [[Claude Bernard]]
+- Also purpose of the [[brain]]
+- cf. [[Allostasis]], [[life]]

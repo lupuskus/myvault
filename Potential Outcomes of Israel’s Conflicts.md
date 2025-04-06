@@ -1,0 +1,8 @@
+- Factors Favoring Unity Between Shia and Sunni Groups:
+	- Shared opposition to Israel
+	- Symbolic solidarity
+	- Pragmatic alliances (e.g., Iran supporting Hamas)
+- Factors Favoring Division:
+	- Deep-rooted sectarian rivalries
+	- Differing political agendas
+	- Diverging regional interests (e.g., Saudi vs. Iran)

@@ -1,0 +1,2 @@
+- [ ] Vaccinations
+- [ ]  Singapore arrival card

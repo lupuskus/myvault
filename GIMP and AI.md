@@ -1,0 +1,1 @@
+- [GIMP AI plug-ins](https://www.pixcores.com/2022/10/ai-plugins-for-gimp)

@@ -1,0 +1,3 @@
+- [Famous poems](https://interestingliterature.com/2018/06/10-of-the-best-lord-byron-poems-everyone-should-read/)
+- When We Two Parted [link and analysis ](https://interestingliterature.com/2018/11/a-summary-and-analysis-of-when-we-two-parted-by-lord-byron/)
+- She Walks in Beauty

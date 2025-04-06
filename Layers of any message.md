@@ -1,0 +1,3 @@
+- Frame - this is a message
+- External message - this is  a message in Japanese
+- Internal message - what the message means in Japanese

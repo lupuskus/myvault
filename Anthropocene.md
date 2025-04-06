@@ -1,0 +1,1 @@
+- https://www.theguardian.com/science/2024/mar/22/geologists-reject-declaration-of-anthropocene-epoch

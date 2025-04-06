@@ -1,0 +1,5 @@
+- Light to middle roast better than starting roast ([[Starbucks]])
+- Slow percolation better than expresso
+- Decaffeination does not affect this effect
+- Instant coffee has same effect
+- [[Chlorogenic acid]] is the cause and it is being removed in low acid coffee

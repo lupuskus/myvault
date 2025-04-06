@@ -1,0 +1,3 @@
+- https://www.ukclimbing.com/articles/features/malcolm_bass_on_life_after_stroke-15211#:~:text=Malcolm%20Bass%20is%20known%20for%20his%20exploratory%20climbs,severely%20impacting%20his%20movement%2C%20sight%2C%20hearing%20and%20speech.
+- https://www.theguardian.com/society/2021/apr/04/life-after-a-stroke-a-mountaineers-guide-to-his-biggest-challenge-yet?CMP=Share_iOSApp_Other
+- https://www.nationalgeographic.com/travel/article/stroke-changed-british-mountaineers-life

@@ -1,0 +1,1 @@
+![[Critical power 2024-04-17 06.34.20.excalidraw]]

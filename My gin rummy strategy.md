@@ -1,0 +1,11 @@
+- Sequences
+	- Single card - bad
+	- two cards in a sequence with one missing in the middle - bad
+	- two cards in sequence or same of a kind - better
+	- Two twos in three - best below a fit
+	- 3 card fit - good
+	- 4 card fit - very good as 4th card can often be used differently
+	-value of cards
+	- in the beginning keep two high cards in sequence or sale of a kind as they are more likely to be discarded
+	- after 4 rounds or so be ruthless in discarding high cards even of they are pairs 
+	- Take/keep 2s or 3s even if they are single

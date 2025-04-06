@@ -1,0 +1,3 @@
+- folate is the active ingredient, which increases methylation capacity
+- [[Folic acid]] is the chemical form. Is has proven efficacy in preventing birth defects, but can increase cancer rates
+- [[MTHFR]] activates folic acid. 

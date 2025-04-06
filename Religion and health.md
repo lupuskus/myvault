@@ -1,0 +1,2 @@
+- [[Religion and mental health]]
+- [BMJ article](https://www.bmj.com/content/382/bmj-2023-076817?ijkey=cc0d92e6a8939e51bb50a8ea6f477b92664aabce&keytype2=tf_ipsecsha).

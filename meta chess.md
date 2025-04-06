@@ -1,0 +1,2 @@
+- two knights and a king cannot mate a king
+- There are x opening moves for white

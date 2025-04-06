@@ -1,0 +1,2 @@
+- https://en.m.wikipedia.org/wiki/Personal_relationships_of_James_VI_and_I
+- Was James I gay?

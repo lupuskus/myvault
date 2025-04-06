@@ -1,0 +1,29 @@
+- **Axil**:
+  - **Botanical Term**: Junction where the stem and leaf/branch meet.
+  - **Etymology**: From Latin "axilla," meaning "armpit."
+  - **Analogous Body Part**: Armpit.
+  - **German Equivalent**: "Achsel."
+- **Stamen**:
+  - **Botanical Term**: Thread-like structures supporting anthers in flowers.
+  - **Etymology**: From Latin "stamen," meaning "thread" or "warp."
+  - **Analogous Body Part**: Thread-like appearance.
+- **Petiole**:
+  - **Botanical Term**: Stalk attaching the leaf blade to the stem.
+  - **Etymology**: From Latin "petiolus," meaning "little foot" or "footstalk."
+  - **Analogous Body Part**: Small foot-like structure.
+- **Radicle**:
+  - **Botanical Term**: First part of a seedling to emerge, forming the root system.
+  - **Etymology**: From Latin "radicula," meaning "little root."
+  - **Analogous Body Part**: Small root.
+- **Cortex**:
+  - **Botanical Term**: Outer layer of tissue in roots and stems.
+  - **Etymology**: From Latin "cortex," meaning "bark" or "rind."
+  - **Analogous Body Part**: Outer layer, similar to bark.
+- **Nucleus**:
+  - **Botanical Term**: Central part of a cell.
+  - **Etymology**: From Latin "nucleus," meaning "kernel" or "little nut."
+  - **Analogous Body Part**: Central, essential part.
+- **Pistil**:
+  - **Botanical Term**: Female reproductive part of a flower.
+  - **Etymology**: From Latin "pistillum," meaning "pestle."
+  - **Analogous Body Part**: Pestle-like shape.

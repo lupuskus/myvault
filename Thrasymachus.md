@@ -1,0 +1,2 @@
+- *justice is nothing else than the interest of the stronger.*
+- [[Plato - Republic]]

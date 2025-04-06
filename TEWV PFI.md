@@ -1,0 +1,4 @@
+- 2017 [[three valleys healthcare]] went into administration. Problems with [[carillon]] in [[Roseberry park hospital]]. [[PFI]] Contract taken over by [[TEWV]]. 
+- TEWV also bought out PFI contract for [[West Park Hospital]] .
+- See [wiki article](https://en.m.wikipedia.org/wiki/Tees,_Esk_and_Wear_Valleys_NHS_Foundation_Trust) and [hsj article](https://www.hsj.co.uk/finance-and-efficiency/carillion-staff-transferred-to-nhs-as-pfi-provider-collapses/7022689.article) and [TEWV annual report](https://www.tewv.nhs.uk/content/uploads/2023/01/TEWV-Annual-Report-and-Accounts-2021_22.pdf) (p 144)
+- It appears that Lancaster road hospital is the only PFI hospital left. 

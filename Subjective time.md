@@ -1,0 +1,1 @@
+[Guardian article](https://www.theguardian.com/wellness/2024/mar/25/subjective-time-partner-relationships) about subjective [[time]] and frequency of [[sex]] and time perception in relationships

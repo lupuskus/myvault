@@ -1,0 +1,2 @@
+- stability through variation ([[Peter Sterling]], [[Joseph Eyer]])
+- cf. [[Homeostasis]]

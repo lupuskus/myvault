@@ -1,0 +1,5 @@
+- How humans change (prochaska and di Clemente)
+- Application to organisational change
+- Organisations consist of humans
+- Use the booklet 
+- Find article

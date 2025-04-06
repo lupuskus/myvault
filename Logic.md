@@ -1,0 +1,3 @@
+- [[history of mathematical logic]]
+- [[everyone should know logic]]
+- 

@@ -1,0 +1,7 @@
+- [x] Check peloton discount ✅ 2024-08-18
+- [x] Shut down Halifax ✅ 2024-08-18
+- [ ] Check private pension #money
+- [x] Claim peloton double payment ✅ 2024-08-18
+- [ ] Change broadband #money
+- [ ] [Zoom](https://zzoomm.com/buy/about/) #money
+- [ ] Check and Register water meter #money

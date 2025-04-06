@@ -1,0 +1,5 @@
+- modifying a formal system, eg by adding new rules, can create inconsistencies, but they can lead to new meanings
+- Is not an intrinsic property of a [[Formal system]], but rather its interpretation
+- [[Inconsistency]] occurs if there is at least one false statement among its interpreted [[theorems]] (GEB p 95)
+- External consistency with the external world
+- Internal consistency - all theorems are mutually compatible after interpretation (in every imaginable world - at least mathematical, logical and physical)

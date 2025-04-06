@@ -1,0 +1,2 @@
+- [Trading log](https://docs.google.com/spreadsheets/d/1615XBgvvk2_FTPezGUGl8ORWMECHsmwhm2pfpkK6l5k/edit?usp=sharing)
+- [IG demo platform](https://demo-deal.ig.com/web-platform/)

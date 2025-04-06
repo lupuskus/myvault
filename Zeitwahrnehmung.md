@@ -1,0 +1,4 @@
+- [[Thomas Mann - Zauberberg]]
+- [[Sven Regener - Herr Lehmann]]
+- In einer arbeitsreichen Woche vergeht die Zeit schnell - aber auch langsam, weil so viel passiert
+- Wenn nichts passiert, vergeht die Zeit langsam - [[Langeweile]] - aber auch schnell, weil das Leben wie im Flug vorbei geht

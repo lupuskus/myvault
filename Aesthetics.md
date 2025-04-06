@@ -1,0 +1,2 @@
+- The attempt to define what cannot be intellectually defined
+- [[Immanuel Kant - Kritik der Urteilskraft]]

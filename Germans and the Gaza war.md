@@ -1,0 +1,2 @@
+- [[Eva Ladipo]] in the [guardian](https://www.theguardian.com/commentisfree/2024/apr/19/family-past-germany-gaza) about [[Germany]]'s role in the [[Gaza war]], its support for [[Israel]] and its obligations after the [[holocaust]] to treat [[Palestinians]] with [[Justice]]
+- response in [[Justice and peace]]

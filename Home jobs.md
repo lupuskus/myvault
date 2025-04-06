@@ -1,0 +1,4 @@
+- [x] greenhouse #home ✅ 2024-08-18
+- [ ] Slicer #home 
+- [ ] Do ceiling for downstairs toilet #home
+- [ ] Boiling water tap #home

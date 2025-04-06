@@ -1,0 +1,3 @@
+- [How to Trade the MACD (investopedia.com)](https://www.investopedia.com/articles/forex/05/macddiverge.asp)
+- Stick with standard 12-26 unless there is a good reason to change
+- see youtube macd in notebook

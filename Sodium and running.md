@@ -1,0 +1,3 @@
+- [[Jason Koop]]: 500-700 mg/h and more in hot weather
+- Check urine and weight before and after each long run. Weight loss should not be more than 2% of body weight (1.6 kg).
+- Calories in your pocket, water in your bottle. 

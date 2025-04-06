@@ -1,0 +1,7 @@
+- [article](https://www.theguardian.com/film/2023/jul/19/oppenheimer-review-nolans-atom-bomb-epic-is-flawed-but-extraordinary?CMP=Share_iOSApp_Other) summary: [[Christopher Nolan]]’s film on [[Robert Oppenheimer]], historical accuracy, cinematic style, critical reception
+- Oppenheimer’s life: academic achievements, romantic relationships, leadership of Manhattan Project, political views and affiliations, moral dilemmas and regrets
+- Evidence for Soviet involvement: no conclusive evidence, accusations based on facts, loyalty and cooperation with US, clearance and reputation restored
+- Lewis Strauss role in his being accused of anti American activities
+- Women
+	- Jean Tatlock
+	- Kitty Oppenheimer

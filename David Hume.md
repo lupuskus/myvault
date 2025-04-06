@@ -1,0 +1,3 @@
+- If one presupposes that knowledge can only come through our senses ([[Empiricism]]), then the [[concept]] of
+	- [[Substance]], and
+	- [[Causation]] are a product of our own [[imagination]].

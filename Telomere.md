@@ -1,0 +1,7 @@
+- telomeres shorten with age
+- Protect against [[Cellular senescence]]
+- Europeans have shorter telomeres than Africans. [[antagonistic pleiotropy]] protecting whites against [[melanoma]] but how (p 137 does not make sense)
+- Women have longer telomeres than men
+- [[Telomerase]] can reverse telomere shortening and extend life, eg in Methuselah pine tree or ovarian cells or sperms
+- Telomere loss accelerated by [[Oxidation]] and [[Inflammation]]
+- [[Fibre]], [[tea]], [[cruciferous vegetables]] and [[vit D]] stimulate telomerase activity

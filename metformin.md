@@ -1,0 +1,2 @@
+- TAME study
+- Campbell, J. M., Bellman, S. M., Stephenson, M. D., & Lisy, K. (2017). Metformin reduces all-cause mortality and diseases of ageing independent of its effect on diabetes control: A systematic review and meta-analysis. _Ageing research reviews_, _40_, 31–44. https://doi.org/10.1016/j.arr.2017.08.003

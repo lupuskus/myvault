@@ -1,0 +1,2 @@
+ - the [[printing press]] created [[childhood]] as [[reading]] created different layers of increasingly complex layers of [[knowledge]]. 
+ - [[TV]] made childhood disappear as there was no such distinction anymore

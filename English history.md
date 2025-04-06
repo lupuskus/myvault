@@ -1,0 +1,19 @@
+- 1066 Battle of Hastings
+- William the conqueror
+- William Rufus
+- Stephen
+- Henry II
+- [[Richard I Lionheart]]
+- John
+- Henry III
+- 1239 - 1307 [[Edward I Longshank]] 
+	- 1270 - 1305 [[William Wallace]]
+- 1284 - 1327 [[Edward II]] 
+- 1312 - 1377 Edward III
+- 1337 - 1453 hundred year’s war
+- [[Henry V]] 1386 - 1422 (King since 1413)
+- Henry VI 1421 - 1471 (king of England and France since 1422, lost France at the end of the100 year’s war and England during war of roses)
+- 1455 - 1487 war of roses
+- 1588 Spanish Armada
+- 1688 glorious Revolution
+- 1707 [[Act of Union]]

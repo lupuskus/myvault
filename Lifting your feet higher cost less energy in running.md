@@ -1,0 +1,4 @@
+- [Frederik Zillén](https://youtu.be/Jj9ZgQgQvBk?si=_jTO-N5DVaBrB4AB)
+- [[Law of conservation of angular momentum]]
+- Let the foot swing high in a relaxed state
+- [Course](https://fredrikzillenonline.newzenler.com/)

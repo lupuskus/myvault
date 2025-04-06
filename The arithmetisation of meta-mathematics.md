@@ -1,0 +1,1 @@
+- *We shall see that each meta-mathematical statement about strings of symbols and how they are typographically related (e.g ., a sequence of three particular formulas constitutes a proof of a fourth particular formula) corresponds to a statement about the strings' Gödel numbers and how those numbers are arithmetically related.*

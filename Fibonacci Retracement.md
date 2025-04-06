@@ -1,0 +1,2 @@
+- [[Fibonacci]] retracement levels might not inherently cause price movement, but if enough traders are using them and placing orders at these levels, the price will likely react.
+- Knowing that herd behavior can drive markets means that technical tools like Fibonacci can be useful as long as they are part of the trading landscape.

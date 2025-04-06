@@ -1,0 +1,1 @@
+- read in the [[Sarek]] national park in 1983 or earlier

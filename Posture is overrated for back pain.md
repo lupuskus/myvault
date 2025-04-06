@@ -1,0 +1,2 @@
+- [[Back pain]] does not depend on your [[posture]]. It does however depend on how often we change our posture
+- [Guardian article about pastor](https://www.theguardian.com/science/2023/aug/06/good-posture-back-pain-how-to-avoid)

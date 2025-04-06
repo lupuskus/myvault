@@ -1,0 +1,2 @@
+- Día y mapa son masculinos, como un problema en el tema.
+- Mano y radio son femeninos, como las palabras de la cena

@@ -1,0 +1,3 @@
+- [[AI in obsidian]]
+- Getting an error message, but will keep looking without spending too much time
+- Looks like I need an OpenAI billing account for use of the API

@@ -1,0 +1,4 @@
+- https://time.com/6297824/best-twitter-alternatives/
+- Check 
+	- [[thread]]
+	- [[Reddit]]

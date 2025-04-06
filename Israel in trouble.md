@@ -1,0 +1,7 @@
+- [[John Mearsheimer]] on [[Israel]] and on [[Gaza war]], [[Lebanon]], [[Hamas]], [[Hisbollah]] and [[Iran]] https://youtu.be/kAfIYtpcBxo
+- Claiming that Israel is an [[Apartheid]] state. 
+- Israel has 4 options:
+	- full integration of [[Palestinians]] 
+	- 2 state solution
+	- Apartheid
+	- [[ethnic cleansing]] - he claims that this is Israel's ultimate goal

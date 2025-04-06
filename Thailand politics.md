@@ -1,0 +1,34 @@
+1. **Power Structure in [[Thailand]]**
+   - **Monarchy in Thailand**
+     - King Maha Vajiralongkorn (King Rama X)
+       - Symbolically powerful with cultural reverence
+       - Holds economic power through royal assets
+       - Personal influence in military matters
+     - **Historical Context**
+       - King Bhumibol Adulyadej (Rama IX) - revered figure with moral authority
+       - [[Lèse-majesté laws]] protect royal image and limit criticism
+   - **Military**
+     - **Role in Governance**
+       - Frequent military coups since 1932
+       - Intervenes during political instability
+     - **2014 Coup**
+       - Led by General Prayuth Chan-o-cha, overthrowing civilian government
+       - Ruled as a military junta until 2019 elections
+     - **Military-Backed Constitution**
+       - Provides military influence in government through Senate appointments
+       - Strong control over political structure even post-elections
+   - **Civilian Government**
+     - **Structure and Elections**
+       - Governed by democratic structures but constrained by military influence
+       - 2019 elections saw Prayuth Chan-o-cha appointed as Prime Minister
+     - **Challenges**
+       - Limited power due to military-backed constitution
+       - Increasing pro-democracy support from youth and reform groups
+       - Calls for reforms to reduce military and royal influence
+   - **Current Dynamics**
+     - **Youth-Led Protests**
+       - Push for democracy and reforms in monarchy and military roles
+       - Resistance from conservative royalists and military establishment
+     - **Ongoing Tension**
+       - Civilian government balancing between reform demands and traditional power structures
+       - Future of Thai governance dependent on outcomes of reform movements

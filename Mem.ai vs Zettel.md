@@ -1,0 +1,5 @@
+- [[mem.ai]] is self organising and as auch saves time and improves retrievability
+- [[Zettelnotes]] out [[Obsidian]] need more time and work but this 
+	- is a creative act,
+	- improves thinking; and 
+	- creates memory.

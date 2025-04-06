@@ -1,0 +1,3 @@
+- Watson and Crick
+- Avery (1946) - change in dna created a change in defendant organism 
+- Jacques Monod - the pulling out of the phenotype from the genotype is a revelation 

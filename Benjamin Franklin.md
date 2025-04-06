@@ -1,0 +1,5 @@
+- Founding father of the [[USA]]
+- [[Lightning rod]]
+- Bifocal glasses
+- First described the [[gulf stream]]
+- Owning [[slaves]] at some time but then supported [[Abolitionism]]

@@ -1,0 +1,2 @@
+[[Weather]]
+- [metoffice Radar](https://www.metoffice.gov.uk/weather/maps-and-charts/rainfall-radar-forecast-map#?model=ukmo-ukv&layer=rainfall-rate&bbox=%5B%5B47.99727386804474,-7.196044921875%5D,%5B52.63639665997182,-2.9113769531250004%5D%5D)

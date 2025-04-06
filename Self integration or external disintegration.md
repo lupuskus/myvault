@@ -1,0 +1,1 @@
+- *These things don’t go together. You must be a unified human being, either good or bad. You must diligently work either on your own reasoning or on things out of your control*  - [[Epictetus - Discourses]]

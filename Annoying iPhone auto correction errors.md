@@ -1,0 +1,2 @@
+- https://www.tomsguide.com/how-to/how-to-fix-autocorrect-on-iphone
+- https://discussions.apple.com/thread/254473344?sortBy=best

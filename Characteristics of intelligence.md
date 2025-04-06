@@ -1,0 +1,11 @@
+## signs of [[intelligence]]
+- make use of fortuitous circumstances
+- Respond flexibly 
+- Make sense of contradictory messages
+- Recognise relative importance of different elements
+- See difference in similarity
+- See similarity in difference
+- create new rules out of existing ones
+- See patterns in apparent chaos
+- Create new ideas
+- Change/adapt own rules

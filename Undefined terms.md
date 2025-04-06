@@ -1,0 +1,2 @@
+- Implicitly defined terms eg. Line as defined by [[axioms]] of [[geometry]] or [[Non Euclidean geometry]]
+- Quality [[Robert Pirsig - Zen and the art of motorcycle maintenance]]

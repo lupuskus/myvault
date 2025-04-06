@@ -1,0 +1,2 @@
+- [guardian article](https://www.theguardian.com/world/2024/apr/26/gaza-germany-justice-and-reconciliation) about [[peace]] and [[justice]] and the [[Gaza war]]
+- Thinking about [[Immanuel Kant - der ewige Friede]]

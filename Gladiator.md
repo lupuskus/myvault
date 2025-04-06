@@ -1,0 +1,5 @@
+- Key historical inaccuracies include the character of [[Maximus]], who is a fictional creation rather than a historical figure. 
+- Additionally, the portrayal of [[Commodus]], the emperor, deviates from historical records. In reality, Commodus ruled for over a decade and wasn’t killed in the gladiatorial arena as depicted in the film.
+- [[Cicero]] lived during the late Roman Republic, primarily in the 1st century BCE, while the movie is set during the later period of the Roman Empire. The film takes creative liberties with historical characters and events, interweaving a fictional narrative around the character of Maximus and the power struggles within the Roman Empire, particularly involving Emperor Commodus.
+- The inclusion of certain historical figures like Emperor Commodus and the depiction of aspects of Roman society, such as the gladiatorial games, provides a backdrop inspired by historical events.
+- See also [[Seneca]]

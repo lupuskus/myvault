@@ -1,0 +1,2 @@
+- Apples (skin) and (fresh) onions have a senolytic effect
+- Studies are contradictory (Hwang, H. V., Tran, D. T., Rebuffatti, M. N., Li, C. S., & Knowlton, A. A. (2018). Investigation of quercetin and hyperoside as senolytics in adult human endothelial cells. _PloS one_, _13_(1), e0190374. https://doi.org/10.1371/journal.pone.0190374)

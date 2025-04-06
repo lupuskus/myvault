@@ -1,0 +1,5 @@
+- Reduce DNA replication. Dependent on NAD+
+- Activated by [[AMPK]]
+- [[Resveratol]] in [[Red wine]] without proven effect 
+- [[Apples]] and [[cardamom]] stimulates sirtuin
+- Inhibited by [[smoking]] and [[AGE]]

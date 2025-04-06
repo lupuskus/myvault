@@ -1,0 +1,2 @@
+- [[Giordano Gruno]] had [[Belief]] and died for it
+- [[Galileo Galilei]] had [[Knowledge]] and could deny his knowledge, but the truth remained. 

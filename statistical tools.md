@@ -1,0 +1,14 @@
+- https://datatab.net/
+- https://www.cdc.gov/epiinfo/support/downloads.html
+- https://statisty.app/paired-t-test-calculator
+- https://www.goodfirms.co/statistical-analysis-software/blog/10-best-free-and-open-source-statistical-analysis-software
+	- JASP
+	- SOFA
+	- GNU PSPP
+	- SCI LABS  
+	- Jamovi
+	- MacAnova
+	- Past
+	- Develve
+	- Invivostat
+	-  IBM SPSS

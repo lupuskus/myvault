@@ -1,0 +1,3 @@
+- Direct
+- Symbolic
+- Allegorical 

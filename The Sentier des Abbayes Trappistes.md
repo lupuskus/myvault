@@ -1,0 +1,2 @@
+- [[hiking]] and cycling trail in [[Wallonia]], [[Belgium]] that connects three [[Trappist abbeys]] and their famous beer breweries.
+- https://www.visitardenne.com/fr/experiences-ardennaises/slow-tourisme/sentier-gr-abbayes-trappistes-rochefort-orval

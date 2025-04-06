@@ -1,0 +1,3 @@
+- Circles evoke [[beauty]] and [[harmony]] in nature.
+- [[CG Jung]] psychology associates circles with the psyche or the whole Self.
+- Circular [[framing]] elements draw attention and suggest security.

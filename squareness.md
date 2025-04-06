@@ -1,0 +1,1 @@
+-  squareness is the inability to see quality before it has been intellectually defined 

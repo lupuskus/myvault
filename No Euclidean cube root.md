@@ -1,0 +1,3 @@
+- [[angle trisection by Origami]]
+- The ruler creates linear equations
+- The circle creates quadratic equations

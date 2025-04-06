@@ -1,0 +1,11 @@
+[[Book]]
+- **Michael Kohlhaas**: Wohlhabender Pferdehändler, historische Figur als Vorlage
+- **Konflikt**: Zwei Pferde unrechtmäßig beschlagnahmt durch Junker Wenzel von Tronka
+- **Rechtsweg**: Kohlhaas' Versuche, Gerechtigkeit zu erlangen, scheitern an Korruption und Bürokratie
+- **Rache**: Gewaltsamer Aufstand gegen Adelswillkür und staatliche Ungerechtigkeit
+- **Themen**:
+  - **Rechtsstaat**: Versagen des Gesetzes, Spannungen zwischen individuellem Rechtsempfinden und staatlicher Ordnung
+  - **Macht/Ohnmacht**: Ohnmacht des Individuums gegenüber staatlicher und adliger Macht
+  - **Moralische Ambivalenz**: Held und Antagonist zugleich; Frage nach Rechtfertigung von Gewalt
+- **Rezeption**: Vielseitig interpretiert; Kritik an Willkürherrschaft, komplexe Reflexion über Gerechtigkeit und Rache
+- **Michael Kohlhaas** in der Umgangssprache: ein fanatischer Mensch, der seine Sache befolgt ohne Rücksicht auf eigenen Schaden.  

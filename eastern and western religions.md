@@ -1,0 +1,2 @@
+- the difference between Judaism, Christianity and Islam are much bigger than the difference between eastern religions like Buddhism, Hinduism and Confucianism. 
+- The west thinks about God, the east about reality

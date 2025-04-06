@@ -1,0 +1,7 @@
+- [[Colour]] (mixing, layering)
+- [[Chiaroscuro]] (light and dark)
+- Central [[perspective]]
+- [[air perspective]]
+- [[local colour]] and [[appearing colour]] of an object
+- Symmetry - asymmetry
+- Foreground - background

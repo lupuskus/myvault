@@ -1,0 +1,1 @@
+Using a [[Concept Map]] in a [[Zettelkasten]] is a contradiction. A Zettelkasten with [[Atomic notes]] will be like a concept map but more flexible (but not a visual)

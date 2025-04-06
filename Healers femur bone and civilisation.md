@@ -1,0 +1,3 @@
+- No animal would be able to survive a healed femur bone due to inability to get food and escape predators. The bone would not have time to heal. 
+- A healed femur bone is a clear sign of  [[Civilisation]] ([[Margret Mead]]). See [Twitter](https://twitter.com/historyinmemes/status/167709221499898675)
+- [[civilisation in what sense]]

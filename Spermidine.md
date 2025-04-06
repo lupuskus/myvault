@@ -1,0 +1,5 @@
+-  found in:
+	- Tempeh
+	- Wheat germ
+	- Mushrooms
+	- Green peas

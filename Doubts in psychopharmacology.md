@@ -1,0 +1,6 @@
+- study about the ineffectiveness of antidepressants in low-level depression
+- But most antidepressants are being prescribed for this
+- [[Johann Hari]]
+- [[Joanna Moncrief]]
+- [[Wolfgang Butz]] - They do work
+- Panorama program - [[SSRI withdrawal symptoms]]

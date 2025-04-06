@@ -1,0 +1,3 @@
+- the good sophist
+- natural liberty and equality of all men
+- Precursor of liberalism

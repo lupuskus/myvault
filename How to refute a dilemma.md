@@ -1,0 +1,5 @@
+- Show that one or both assumptions do not make sense
+- Show that there might be a third solution
+- Throwing sand
+- put the bull to sleep
+- Refuse to enter the arena

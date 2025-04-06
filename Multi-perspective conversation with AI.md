@@ -1,0 +1,1 @@
+Have a conversation with [[ChatGPT]] about something that I know quite well, like a piece of [[music]] ([[Zauberflöte]]), a historical event or a novel and look at it from as many perspectives as possible. 

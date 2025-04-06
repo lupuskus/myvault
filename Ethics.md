@@ -1,0 +1,8 @@
+- Books about ethics
+	- very short introduction
+	- A level philosophy
+	- Peter singer
+- [[Levels of ethics]]
+	- [[Normative ethics]]
+	- [[Ethical dilemmas]]
+	- [[Meta ethics]]

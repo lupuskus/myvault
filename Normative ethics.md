@@ -1,0 +1,3 @@
+- [[Utilitarianism]]
+- [[Deontology ]], [[Immanuel Kant]]
+- [[Virtue ethics]], [[Aristotle]]

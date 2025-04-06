@@ -1,0 +1,5 @@
+- Never attribute to malice what can be sufficiently explained by stupidity [[Robert Hanlon - Murphy's Law Book Two]]
+- Also [[Johann Wolfgang von Goethe -  Die Leiden des jungen Werther]]
+	- _Mißverständnisse und Trägheit vielleicht mehr Irrungen in der Welt machen als List und Bosheit. Wenigstens sind die beiden letzteren gewiß seltener._
+- [[HG Wells - wheels of Chance]]
+	- _There is very little deliberate wickedness in the world. The stupidity of our selfishness gives much the same results indeed, but in the ethical laboratory it shows a different nature._

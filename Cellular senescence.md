@@ -1,0 +1,4 @@
+- Hayflick effect: cells only replicate about 50 times before becoming senescent 
+- [[Quercetin]]
+- [[fisetin]] in [[strawberries]]
+- [[Pippali]] (Piper longum)

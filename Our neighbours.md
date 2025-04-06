@@ -1,0 +1,9 @@
+- Joplin: gill and Martin
+- schnauzer: Laura and Steve
+- funny foot:
+- Dentist Charlotte and Barbara
+- Sandra’s children:
+- Sarah& butcher
+- mark
+- Sandra’s sister
+- Maureen from marwood drive 

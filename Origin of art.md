@@ -1,0 +1,1 @@
+- [[Art]] arises out of an innate drive for decoration for the purpose of expressing [[order]] or [[individuality]]. ([[Honour Fleming - Weltgeschichte der Kunst]])

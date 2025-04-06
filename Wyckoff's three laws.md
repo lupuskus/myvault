@@ -1,0 +1,3 @@
+-  law of supply and demand
+- Law of cause and effect
+- Law of effort and result

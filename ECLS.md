@@ -1,0 +1,11 @@
+---
+Date created: 2024-08-21 11:02
+---
+[[Work]]
+
+![[processed-0F035709-7478-426E-8951-DCC4D58E8ABC.jpeg]]
+![[processed-6EDA79E3-F0E6-4E27-BC59-B6E56C86A7A6.jpeg]]
+
+![[processed-3F27D059-366D-4A6E-A7F5-B20BE28F77DE.jpeg]]
+
+![[output-FBBC775E-296E-4275-8EA3-307D0FB55A30.jpeg]]

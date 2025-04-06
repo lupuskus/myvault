@@ -1,0 +1,2 @@
+- See also [[Chavs]]
+- https://www.theguardian.com/commentisfree/2024/feb/04/what-legendary-historian-tells-us-about-contempt-for-todays-working-class-ep-thompson

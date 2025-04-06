@@ -1,0 +1,6 @@
+- [Ukulele & Baritone Lessons – Jolly Roger Ukulele](https://jollyrogerukulele.com/ukulele/)
+- [Ukulele In The Dark with Guido Heistek](https://ukuleleinthedark.com/)
+- [UKULELE MIKE - Home Page (ukulelemikelynch.com)](http://www.ukulelemikelynch.com/)
+- [All Ukulele Chords are at Ukulele Cheats - Sing it all around!](https://ukulelecheats.com/)
+- James hill
+- Cirillo

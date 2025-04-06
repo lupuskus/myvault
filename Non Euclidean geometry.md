@@ -1,0 +1,6 @@
+- Saccheri (1667-1733)
+- JH Lambert
+- János Bolyai
+- Lobachevsky
+- [[Fritz Riemann]]
+- Also Gauss and Schweikart 

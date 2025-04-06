@@ -1,0 +1,3 @@
+- for [[Friedrich II (der Große)]], mentioned in [[Douglas R Hofstaetter - Gödel, Escher, Bach]]
+- Six Level [[fugue]]
+- [[Canons]]

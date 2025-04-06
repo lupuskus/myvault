@@ -1,0 +1,2 @@
+ - genes survive even is they are disadvantageous in later life if  they increase survival rates during the reproductive life period
+ - Example [[mTOR]] and [[Alzheimer]]

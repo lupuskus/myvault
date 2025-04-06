@@ -1,0 +1,1 @@
+- Bandura, A. (1977) ‘[[Self-efficacy]]’, Psychological Review, 84, pp. 191–216.

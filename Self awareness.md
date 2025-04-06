@@ -1,0 +1,1 @@
+- an animal has self awareness of it recognises itself in a mirror. See [[Peter Godfrey-Smith - Metazoa]]

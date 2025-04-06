@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"612d975c5485942c","x":102,"y":83,"width":250,"height":60,"type":"text","text":"Hegel"},
+		{"id":"c1c26016d5ff27e9","x":-5,"y":260,"width":250,"height":60,"type":"text","text":"Kierkegaard "}
+	],
+	"edges":[]
+}

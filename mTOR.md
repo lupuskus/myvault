@@ -1,0 +1,9 @@
+- Inhibited by [[Rapamycin]]
+- Inhibited by [[AMPK]] via caloric restriction
+- Inhibited by [[protein restriction]] or restriction of [[methionine]] and [[BCAAs]]
+- [[plant based diet]] requires supplementation of [[vit b12]]. Otherwise [[homocysteine]], a breakdown product of methionine accumulates, which stimulates mTOR
+- Involved in many cancers
+- Stimulates growth. Advantageous in youth. Accelerating aging in later life. 
+- Example of [[antagonistic pleiotropy]]. 
+- Linked to [[autism]]
+- Inhibited by [[cruciferous vegetables]], [[coffee]] and [[tea]]

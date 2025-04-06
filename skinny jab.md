@@ -1,0 +1,3 @@
+- https://www.theguardian.com/food/2023/apr/13/these-new-weight-loss-drugs-are-tempting-why-i-wont-use-them-wegovy-ozempic-semaglutide
+- [[senaglutide]]
+- [[Weight loss]]

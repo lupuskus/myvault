@@ -1,0 +1,2 @@
+- [apps for for stick](https://www.firesticktricks.com/amazon-fire-stick-apps.html)
+- 

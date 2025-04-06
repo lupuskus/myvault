@@ -1,0 +1,3 @@
+- [[Urban II]]’s Speech in the council of clermont
+- [[Peter the Hermit]] - people’s crusade
+- Godfrey of Bouillon - princes’ crusade

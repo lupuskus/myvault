@@ -1,0 +1,2 @@
+- 1702 queen of England
+- 1707 [[Act of Union]] - becoming queen of Great Britain

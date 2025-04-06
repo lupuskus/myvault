@@ -1,0 +1,1 @@
+- [[AA]] Rule 62: **Don't Take Yourself So Damn Seriously**People around them seem to enjoy themselves without using drugs or drinking alcohol, but they cannot quite think of the possibility of this happening to them. The main lesson of Rule 62 is to take life lightly, have fun, and enjoy it.

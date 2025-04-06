@@ -1,0 +1,4 @@
+- something that moves on, only to end where it started
+- [[Music]]
+- painting - [[MC Escher]]
+- 

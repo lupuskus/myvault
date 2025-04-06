@@ -1,0 +1,9 @@
+- sequence of formulas: 
+	- 2^F1 x 3^F2 x 5^F3 …
+- Each formula consists of a number:
+	- 2^S1 x 3^S2 …
+- Each sign:
+	- 1..12: ‘primitive’ numbers
+	- 13, 17, 19… : numerical variables 
+	- 13^2, 17^2…: sentential variables
+	- 13^3, 17^3…: predicate variables

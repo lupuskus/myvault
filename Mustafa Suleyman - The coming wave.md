@@ -1,0 +1,2 @@
+- I will read this book and make notes on my Onyx Boox (the problem is that my notes will not be searchable,  but maybe with text recognition they are)
+- 

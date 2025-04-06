@@ -1,0 +1,4 @@
+- [[Self reference]]
+- [[selfhood]]
+- [[Self awareness]]
+- [[Self assessment]] and [[Socrates - a life worth living]]

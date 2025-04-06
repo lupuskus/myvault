@@ -1,0 +1,2 @@
+- https://borgbackup.readthedocs.io/en/stable/quickstart.html#a-step-by-step-example
+- [[Borg]] needs [[ssh]] for the backup. It will therefore not be able to encrypt to the icloud

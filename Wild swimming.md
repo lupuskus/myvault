@@ -1,0 +1,2 @@
+- https://www.theguardian.com/artanddesign/2023/dec/26/wild-swimmers-paradise-beach-on-top-of-a-yorkshire-moor
+- Article in caravan club mag [[open water swimming.pdf]]

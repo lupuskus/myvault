@@ -1,0 +1,6 @@
+- [[Edmund Husserl]]
+- [[Martin Heidegger]]
+- [[Jean Paul Sartre]]
+- [[Levinas]]
+- [[Simone de Beauvoir]]
+- [[Merleau Ponty]] - [[Meaning]]

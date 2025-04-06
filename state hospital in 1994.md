@@ -1,0 +1,9 @@
+- Psychiatry in Germany in the 90s. Psychiatry reform report in the 80s. In practice there was not a lot of reform.
+- All patients were on combinations of antipsychotics: maximum doses of depot with mood stabilisers and sometimes antidepressants (the desperate triangle)
+- Diagnosis for most patients "[[schizoaffective disorder]]", a fashionable diagnosis at the time: new and easily usable as it covered everything.
+- Every new starter was confronted with different schools of psychiatry and psychotherapy: [[Social psychiatry]], [[psychoanalysis]] or [[psychodynamic treatments]], some (very few) [[behavioural therapists]] (mainly psychologists) and (even fewer) followers of [[biological psychiatry]]. And there were [[systemic treatments]] that had was cross-cutting these schools/belief systems.
+- I attached myself to the newly developing directions of [[cognitive behavioural therapy]], [[biological psychiatry]] and I learned the [[ICD-10]] almost by heart. (My colleague in the UK in 2014 still made fun of me about my [[savant]] skill of knowing every ICD-10 number by heart).
+- No-one could avoid to attach themselves to one of these schools. 
+- Over the years things change: New chief doctors (the German name for Clinical Directors) brought biological thinking into the hospital and new young trainees naturally followed new psychiatric thinking. 
+- By that time I had become a consultant psychiatrist (German word: Oberarzt = Upper physician) and was very happy about the development of mental health into a more evidence-based way of helping patients.
+- At the time I was an upper physician myself, in [[addiction psychiatry]]. [[AA and psychiatry]] at the time were having some productive interactions.

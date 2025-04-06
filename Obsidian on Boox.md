@@ -1,0 +1,2 @@
+- Switched off the daily note on startup function
+- This should prevent problems of synchronisation with icloud via syncthing 

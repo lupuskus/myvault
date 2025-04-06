@@ -1,0 +1,4 @@
+- See [massimo](https://youtube.com/watch?v=WYVJj-xvHuI&feature=shareb) for poolish [[pizza]]. Polish with 500g water and 500g flour and 1g fresh yeast. Leave at 16-18 deg for 24 hours. Then add 200g flour and 18g salt. Knead and let rest for 20 min. Cut and form balls of 220-250g.  Let rise for another 6 hours. 
+- Or [6 hours Polish pizza](https://youtube.com/watch?v=9B2KBW5ErkU&feature=shareb):
+	- 200g + 200g poolish for 4 hours at room temperature 
+	- Add 100g flour, 5g salt & 5g olive oil

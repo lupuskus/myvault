@@ -1,0 +1,6 @@
+- implicit and explicit meaning
+- *In my opinion, in fact, the key element in answering the question "What is consciousness?" will be the unraveling of the nature of the "isomorphism" which underlies meaning.* (p 82)
+- Analogy of the [[contracrostopunctus]] and [[Gödel’s Incompleteness theorem]]
+- [[Bach - die Kunst der Fuge]]
+- [[Euclidean postulates]]
+- 

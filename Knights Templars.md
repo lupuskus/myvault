@@ -1,0 +1,2 @@
+- Accused of homosexuality in trials
+- some of them later sought refuge in the [[Deutscher Orden]].

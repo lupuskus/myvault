@@ -1,0 +1,5 @@
+- https://www.zotero.org/lupuskus/items/D7C39E56
+ - Huhn, M. _et al._ (2019) ‘Comparative efficacy and tolerability of 32 oral [[antipsychotics]] for the acute treatment of adults with multi-episode [[schizophrenia]]: a systematic review and [[network meta-analysis]]’, _The Lancet_, 394(10202), pp. 939–951. Available at: [https://doi.org/10.1016/S0140-6736(19)31135-3](https://doi.org/10.1016/S0140-6736(19)31135-3)
+ 
+	[![](https://www.thelancet.com/cms/10.1016/S0140-6736(19)31135-3/asset/51c53389-324f-4289-8cef-7341963a03b5/main.assets/gr1.jpg)](https://www.thelancet.com/cms/10.1016/S0140-6736(19)31135-3/asset/ea0363eb-f399-4d24-b4fb-bfe4cb140431/main.assets/gr1_lrg.jpg "View full size image in a new tab")
+	[![](https://www.thelancet.com/cms/10.1016/S0140-6736(19)31135-3/asset/b5c84d5a-5919-42f7-96ac-a6e1361278a0/main.assets/gr2a.jpg)](https://www.thelancet.com/cms/10.1016/S0140-6736(19)31135-3/asset/85122d2c-49c7-4c55-9a5f-462442a90433/main.assets/gr2a_lrg.jpg "View full size image in a new tab")

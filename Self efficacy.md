@@ -1,0 +1,4 @@
+- Self-efficacy refers to an individual’s belief in their ability to successfully perform a task or handle a situation. It’s about confidence in one’s skills to achieve a desired outcome. 
+- This concept is closely linked to [[efficacy]] but applies specifically to a person’s perception of their own competence rather than an external process or product.
+- People with self efficacy often have more [[Efficiency]] and [[Effectiveness]]
+- [[Depression and self efficacy]]

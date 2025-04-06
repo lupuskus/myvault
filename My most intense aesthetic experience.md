@@ -1,0 +1,4 @@
+- Being 14 or so Mama and Papa got a book of [[Heinrich Böll]] at the Bertelsmann book club that was a part of his collected works. It was gray with just simple but stylish letters at the cover. I pictured myself reading it in a bed with white linen and a Mosquito net over it. It was just pure beauty. 
+- I later saw that same beauty in some books and places in the [[DDR]]. Nobody else saw it. 
+- It was all pure [[aesthetic]]. No [[Art]]
+- Around the same time I discovered the [[aesthetics of enlightenment]]

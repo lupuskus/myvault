@@ -1,0 +1,2 @@
+- piers gaveston (was here Edward’s lover)
+- killed (?) by his wife Isabella and her lover Roger Mortimer

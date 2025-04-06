@@ -1,0 +1,7 @@
+- Insulin like growth factor
+- Knocking it out increases lifespan in worms and mice and reduce cancer rates in humans with [[Laron syndrome]]
+- IGF-1 linked to cancer growth and metastases
+- IGF-1 decline with age
+- IGF-1 rises in response to (animal) protein. 
+- limit protein intake to 0.8 g/kg = 64g/80kg
+- Prefer plant protein 

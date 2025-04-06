@@ -1,0 +1,3 @@
+- Absolute proof of consistency by
+	- Finitistic proofs
+	- Analogy to geometry

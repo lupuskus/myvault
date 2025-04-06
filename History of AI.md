@@ -1,0 +1,5 @@
+-  [[Leibniz]] and [[Pascal]]
+- [[Charles Babbage]]
+	- difference and analytical engine
+	- [[Lady Lovelace]]
+- [[Characteristics of intelligence]]

@@ -1,0 +1,3 @@
+[[Running]]
+
+![[Interval variables.jpg]]

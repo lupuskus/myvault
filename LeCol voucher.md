@@ -1,0 +1,2 @@
+STRAVAFF24MSK94
+lupuskus@googlemail.com 

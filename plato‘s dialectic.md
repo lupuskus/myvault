@@ -1,0 +1,2 @@
+- of the nature of the dialogue
+- The only way to acquire knowledge

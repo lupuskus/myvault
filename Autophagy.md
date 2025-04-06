@@ -1,0 +1,6 @@
+-  increased by [[intermittent fasting]] (but probably at least 25-48 hrs) or [[time restricted eating]] (maybe not)
+- increased by vigorous [[aerobic exercise]], but not [[resistance training]] or [[HIIT]] ([[Michael Greger - How not to age]], p24)
+- Increased by [[AMPK]] and everything that stimulates it
+- Inhibited by [[acrylamide]]
+- [[coffee and autophagy]]
+- [[Spermidine]]

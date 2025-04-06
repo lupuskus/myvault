@@ -1,0 +1,42 @@
+-  sustantivos
+	- género y número
+	- No es idéntico con sujeto 
+- Artículo
+	- Género y número de sustantivo
+	- Determinados y indeterminados
+	- Indeterminado "lo"
+- adjetivos 
+	- acompaña los sustantivos 
+	- Género y número de sustantivo
+- los verbos
+	- género gramatical
+	- Tiempo
+	- Modo
+	- coherente con el sujeto
+	- Transitivos y intransitivos
+	- complemento directo y indirecto
+- los pronombres
+	- número y género que están replacando 
+	- separate in subjonctivo 
+	- Added on in imperativo, gerundio y imperativo 
+- los adverbios
+	- modifican verbos, adjetivos o otros adverbios 
+	- no tienen género ni número
+	- Circunstancias, intensidad, cantidad, modi, ubicación 
+	- Más cerca de posible de las palabras que modifican
+	- adverbios de negación antes de verbos
+- preposiciones 
+	- Palabras +palabras 
+	- sin las proposiciones perdemos el sentido de la palabra (pan de queso)
+- Conjunciones 
+	- Palabras +palabras 
+	- oraciones + oraciones
+	- conectan Partes independientes (pan y queso)
+	- causa-efecto, adición, oposición
+- perifrases verbales
+	- Verbo- conj/prep-verbo
+- interjecciones
+	- emociones, sonidos, cortesía
+	- Ciertos sustantivos pueden ser interjecciones
+
+https://youtu.be/LFXiZc9D2Hs?si=Inp-kTcmUpA9Ql4b

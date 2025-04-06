@@ -1,0 +1,16 @@
+- [x] stanley cup
+- [x] Fan
+- Weekend in Helmsley or Newcastle
+- [x] Shark stain eliminator
+- [x] Maglite phone charger ✅ 2024-10-08
+- Ku17ter
+- Nail set
+- [x] Earring 
+	- https://ca.pandora.net/en/earrings/earrings/hoop-earrings/treated-freshwater-cultured-baroque-pearl-hoop-earrings/299426C01.html
+	- Goldsmith
+	- White gold
+	- Bridgewater?
+- Wimbledon tickets
+![[T shirt.png]]
+- [ ] Louis Vuitton trainers
+- [ ] Abz and cam spa weekend

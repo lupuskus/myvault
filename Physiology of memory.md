@@ -1,0 +1,3 @@
+- [[neural networks]]
+- synaptic weight ([[synapsis]])
+- Growth of insulation of [[neurites]] and [[dendrites]]

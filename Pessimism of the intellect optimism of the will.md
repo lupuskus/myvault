@@ -1,0 +1,5 @@
+[[Antonio Gramci]]
+[[Pessimism]]
+[[Optimism]]
+
+

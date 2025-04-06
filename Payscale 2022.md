@@ -1,0 +1,1 @@
+![[Payscale 2022.png]]
