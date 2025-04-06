@@ -1,0 +1,1 @@
+has three different states: jolly, argumentative or sedated. And all three states in between. Tonight, fortunately she was in the sedated side when she became argumentative. 

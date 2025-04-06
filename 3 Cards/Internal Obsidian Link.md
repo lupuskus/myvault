@@ -1,0 +1,1 @@
+to other note [Obsidian Link](obsidian://open?vault=Zettelbox&file=2023-05-15%20Mon) 

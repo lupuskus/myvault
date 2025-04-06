@@ -1,0 +1,4 @@
+- IPad and MacBook share Obsidian via iCloud. Phone is used as input only. Both devices can also be used for offline input.
+- Both and phone have access to all three AI systems and [[Zotero|Zotero]] reference manager.
+- Office 360 via university. Later use Libreoffice and Thunderbird.
+- Secure vault still to be explored

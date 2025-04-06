@@ -1,0 +1,6 @@
+- [[Bard]] and [[Gemini]]
+- [[Chat gpt]] and [[Bing]]
+- [[Poe]]
+- Alternatives:
+	- see [The 10 Best ChatGPT Alternatives (2024) (lifewire.com)](https://www.lifewire.com/chatgpt-alternatives-7551608)
+	- 

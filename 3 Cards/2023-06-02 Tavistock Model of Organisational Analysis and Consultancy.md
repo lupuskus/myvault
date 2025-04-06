@@ -1,0 +1,3 @@
+- Training by Psychoanalytical Psychotherapy Service (Tony Ashton, Jo Coulthard)
+- ![[Institutional Dynamics.jpg]]
+- [[Tavistock Model]]

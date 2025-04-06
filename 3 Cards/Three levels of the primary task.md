@@ -1,0 +1,5 @@
+- Lawrence 1977
+- 3 levels
+	- Normative - defined by stakeholders
+	- Existential - the meaning that is given to the task by the employees
+	- Phenomenal task - the task that can be inferred

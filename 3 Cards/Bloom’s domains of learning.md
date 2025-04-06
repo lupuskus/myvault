@@ -1,0 +1,3 @@
+- cognitive
+- Analytic
+- Psycho motor

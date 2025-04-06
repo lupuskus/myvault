@@ -1,0 +1,3 @@
+- The primary task of an organisation is the task that it must perform in order to survive
+- It can change as times change
+- there are [[Three levels of the primary task]]

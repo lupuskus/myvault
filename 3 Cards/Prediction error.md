@@ -1,0 +1,6 @@
+ - on different levels
+	 - Perceptions 
+	 - Salience
+ - Books
+	- [[Anil Seth]]
+	- [[202306101604 The Predictive Mind -Jakob Hohwy]]

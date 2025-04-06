@@ -1,0 +1,5 @@
+- create entry in sources
+- Header that contains standard header & book tag & link to author (if relevant)
+- Then a dataview that shows all notes that reference to this book
+- Then maybe a summary of the book. This will be more or less the dataview but with structure
+- Thoughts that relate to the book

@@ -1,0 +1,6 @@
+- When a nurse (what’s her name left in Esslingen)
+- Calling Helen Laws vile
+- Calling Nathan not in Laura’s league
+- Calling Martina Elke
+- Taking money of a patient
+- [[What I don’t feel ashamed of]]

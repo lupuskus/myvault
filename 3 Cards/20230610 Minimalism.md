@@ -1,0 +1,4 @@
+- [[20100604 Simplify your life]]
+- Simplify your life (D)
+- the minimalists (website and Netflix program)
+- [[Project 333]]

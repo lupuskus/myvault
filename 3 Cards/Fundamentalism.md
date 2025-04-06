@@ -1,0 +1,3 @@
+- Religious Fundamentalism
+- Political Fundamentalism
+- Corporate Fundamentalism ([[Simon Western - Leadership]])

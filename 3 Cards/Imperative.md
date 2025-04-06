@@ -1,0 +1,1 @@
+take the tu, nous , and vous forms of the present tense. For the -er verbs, drop the - s of the present tense tu form

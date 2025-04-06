@@ -1,0 +1,1 @@
+- The term "Six Sigma" refers to a statistical measure of how far a process deviates from perfection, allowing organizations to identify areas for improvement. (Chat GPT)

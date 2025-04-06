@@ -1,0 +1,8 @@
+- [x] Check private E-Mails ✅ 2024-04-03
+- [x] Check for drive offer ✅ 2024-04-03
+- [[first and second order change]]
+- [[use blockquotes for chatgpt]]
+- [[Suicide novels]]
+- in airport lounge we are worried that we will stand in Amsterdam  
+- Flight to Amsterdam for delayed by 90 min. We will probably miss our connection flight to teesside and will spend a night in Amsterdam.  
+- in the end we made it

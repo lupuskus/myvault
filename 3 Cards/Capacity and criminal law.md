@@ -1,0 +1,4 @@
+- Capacity and character theory (Kyd, S. _et al._ (2020) _Clarkson and Keating criminal law: text and materials_. Tenth edition. London: Sweet & Maxwell, Thomson Reuters. p 227). https://www.zotero.org/users/832578/items/GJURWY2M
+- Fitness to plead - Capacity or Pritchard Test (p 453)
+- Law commission recommendations for Fitness to Plead ([Report](https://s3-eu-west-2.amazonaws.com/lawcom-prod-storage-11jsxou24uy7q/uploads/2016/01/lc364_unfitness_vol-1.pdf)) 
+- Unfitness to plead https://www.zotero.org/users/832578/items/7FTUN95S

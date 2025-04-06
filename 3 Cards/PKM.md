@@ -1,0 +1,2 @@
+- https://en.m.wikipedia.org/wiki/Personal_knowledge_management
+- https://www.youtube.com/watch?v=Q2WBHyqRsxA

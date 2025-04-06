@@ -1,0 +1,2 @@
+- a good professional discussion has to cut like a knife
+- [[Germans and argument]]

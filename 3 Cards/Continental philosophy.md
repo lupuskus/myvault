@@ -1,0 +1,8 @@
+- Bergson
+- Jaspers
+	- transcendence
+- Alexandre Kojève
+- Jean Wahl
+- Bachelard
+	- thomas kuhn - paradigm shifts
+- Emmanuel Levinas

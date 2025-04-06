@@ -1,0 +1,4 @@
+- Power-to-act
+- Power-over
+- Power-in-common
+- Power-of-productivity

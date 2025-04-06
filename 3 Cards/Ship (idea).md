@@ -1,0 +1,3 @@
+- Group of people working together
+- A noun that represent the general idea (leadership, friendship)
+- Direction towards something new to be explored

@@ -1,0 +1,16 @@
+![[2022_11_15 18_48 Office Lens.jpg]]
+- [x] get valve off 
+- [x] Anodes ✅ 2024-08-18
+	- [order](https://www.asap-supplies.com/engine-spares-by-model/volvo-penta-saildrives/110s)
+- [x] Stuart ✅ 2024-08-18
+- [x] stui ✅ 2024-08-18
+- [x] sail ✅ 2024-08-18
+- [x] gemini
+- [x] priming for keel ✅ 2024-08-18
+- [x] micky re 2x wind vane aerials ✅ 2024-08-18
+- [x] timber ✅ 2024-08-18
+- [x] membrane ✅ 2024-08-18
+- [x] Tiller ✅ 2024-08-18
+	- [x] sand
+	- [x] order varnish ✅ 2024-08-18
+	- [x] varnish ✅ 2024-08-18

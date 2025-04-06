@@ -1,0 +1,3 @@
+- I was wondering of AI uses an structuralist approach. 
+- ChatGPT says no. 
+- Both look at relations but in different ways and with different goals

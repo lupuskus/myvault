@@ -1,0 +1,11 @@
+- Fork in the road with MP M’bro
+- Dan Gallagher (ABA)
+- Changing futures ([[Ann Bridges]])
+- Jonathan Beaumont director substance misuse tees
+- All team/service managers substance misuse
+	- CGL
+	- All …
+	- … change
+	- Fulcrum practice (foundations), Danny Ahmad - dissolved in April/may 23
+- Event with police commissioner, changing futures event, presenting TEWV transformation
+- Not met with substance misuse nurses

@@ -1,0 +1,4 @@
+- [[Victor Frankl]]
+- Eine der Psychotherapien die ich gerne mehr exploriert hätte
+- Sinngebung als Kernstrategie ([[Meaning]])
+- [[Johann Hari - Depressionen]] 

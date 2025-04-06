@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"type":"text","text":"This is a test canvas","id":"7a699917aa6c9df7","x":-560,"y":-200,"width":800,"height":520,"color":"2"},
+		{"id":"51e8f710a05f9eac","x":-160,"y":-80,"width":204,"height":280,"type":"file","file":"5 Sources/Luhmann - Lesen lernen.jpg"}
+	],
+	"edges":[]
+}

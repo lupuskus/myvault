@@ -1,0 +1,11 @@
+Learn
+- [Course](https://github.com/skills/introduction-to-github) (go to desktop view)
+- [Github with Termux](https://youtu.be/qQzDXjPa-14).  Still to do:
+	- [x] Two devices sharing one repository ✅ 2022-12-02
+	- Automated scripts
+- [Article](https://medium.com/analytics-vidhya/how-i-put-my-mind-under-version-control-24caea37b8a5) and [video](https://youtu.be/qqsNNTkhK5Y)describing Zettelkasten with Github.
+- Managed to login with ssh keys [Link](https://www.freecodecamp.org/news/how-to-fix-git-always-asking-for-user-credentials/).  
+	- [x] Create same on windows. ✅ 2022-12-02
+- Obsidian git Community plugin
+	- Dismiss due to login issues. No ssh. Not logging in on android. 
+- [[git help]]

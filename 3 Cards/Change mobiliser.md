@@ -1,0 +1,2 @@
+- [[Helen Bevan]] - the people who will succeed will be the ones that can mobilise
+- 

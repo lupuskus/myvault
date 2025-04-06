@@ -1,0 +1,25 @@
+- [[Simon Western - Leadership]]
+- [[Simon Western]] (2019) _[[Leadership]]: A Critical Text_. 3rd edn. SAGE Publications. Available at: [https://books.google.co.uk/books?id=IfGKDwAAQBAJ](https://books.google.co.uk/books?id=IfGKDwAAQBAJ).
+- Examples:
+	- Arab Spring
+	- Anti capitalist/eco/feminist movements
+- Taken over by some companies
+	- small self managed teams
+	- dispersed leadership
+	- normative control
+	- Matrix structures
+- example companies
+	- coca cola
+	- Apple 
+	- Patagonia
+	- body shop
+	- some of them inauthentically
+- difference to traditional left wing elitist party structures 
+- methods 
+	- influences truth production, identity and culture
+	- use of technological networks
+	- virtual spaces
+	- [[the medium is the message]]
+- NSMs can be understood through two lenses
+	- explicit aims 
+	- the signifying message

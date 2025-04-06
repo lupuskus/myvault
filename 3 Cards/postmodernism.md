@@ -1,0 +1,3 @@
+- rejection of search for truth, progress and the one unifying system that explains everything
+- It emphasises multiple perspectives
+- It developed out of Derrida’s post structuralism (see [[202306111347 structuralism and post-structuralism]])

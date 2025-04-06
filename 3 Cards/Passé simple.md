@@ -1,0 +1,4 @@
+- -er verbs:
+	- -ai, -as, -a, -âmes, -âtes, -èrent
+- -ir and -re verbs:
+	- -is, -is, it, -îmes, -îtes, -irent

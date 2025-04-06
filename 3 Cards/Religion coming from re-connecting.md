@@ -1,0 +1,4 @@
+#religion 
+- Cicero from relegere "go through again" (in reading or in thought), from re- "again" (see [re-](https://www.etymonline.com/word/re-?ref=etymonline_crossreference "Etymology, meaning and definition of re-")) + legere "read" (see [lecture](https://www.etymonline.com/word/lecture?ref=etymonline_crossreference#etymonline_v_6639 "Etymology, meaning and definition of lecture") (n.)).
+- many modern writers connects it with religare "to bind fast" (see [rely](https://www.etymonline.com/word/rely?ref=etymonline_crossreference "Etymology, meaning and definition of rely"))
+- from: https://www.etymonline.com/word/Religion

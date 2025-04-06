@@ -1,0 +1,4 @@
+- [Markup](http://en.wikipedia.org/wiki/Markup_language) is a generic term for a language that describes a document's formatting eg HTML, LaTeX, Markdown
+- [Markdown](http://en.wikipedia.org/wiki/Markdown) is a specific markup library: 
+	- [http://daringfireball.net/projects/markdown/](http://daringfireball.net/projects/markdown/), or
+	- one of its [implementations].(https://en.m.wikipedia.org/wiki/Markdown#Implementations.

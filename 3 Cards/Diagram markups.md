@@ -1,0 +1,4 @@
+- plantuml - plantext
+- mermaid.live
+- graphviz
+- all 3 have community #plugins

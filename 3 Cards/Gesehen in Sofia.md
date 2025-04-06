@@ -1,0 +1,1 @@
+- [[Friedrich Schiller]] - "[Der Mensch ist nur ganz Mensch, wo er spielt.](https://www.aphorismen.de/zitat/95026)"

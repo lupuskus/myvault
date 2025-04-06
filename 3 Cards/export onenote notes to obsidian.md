@@ -1,0 +1,3 @@
+- #onenote 
+- [[onenote]]
+- https://www.google.com/search?q=export+onenote+notes+to+obsidian&rlz=1C5MACD_enGB1057GB1057&oq=export+onenote+notes+to+obsidian&aqs=chrome..69i57j33i160.19092j0j4&sourceid=chrome&ie=UTF-8

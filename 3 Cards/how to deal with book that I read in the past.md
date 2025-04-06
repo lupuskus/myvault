@@ -1,0 +1,5 @@
+- if I come across a book that I read in the past, I am not getting overwhelmed by what I have forgotten about it or that I have not completed it.
+- instead, I write down one think I remember from that book.
+- Let's try: 
+	- Hofstadter, D.R. (1999) _Gödel, Escher, Bach: an eternal golden braid_. 20th anniversary ed. New York: Basic Books. [[Douglas R Hofstaetter - Gödel, Escher, Bach]]
+	- 

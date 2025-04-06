@@ -1,0 +1,4 @@
+- from https://marathonhandbook.com/marathon-heart-rate/  
+- what we need is a heart rate duration curve (see https://www.trainerroad.com/forum/t/heart-rate-curve-instead-of-power-curve/25865) check intervals.icu
+- 65% X 179 = 116
+- 80% X 179 = 143

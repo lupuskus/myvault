@@ -1,0 +1,2 @@
+[[Simon Western - Leadership]]
+- “Like [[avatars]] in a computer game, [[leaders]] act (often unconsciously) on behalf of other interests, they carry and transmit [[culture]]s on behalf of wider forces”

@@ -1,0 +1,3 @@
+- In the Calendar everything stays in the daily note unless it is for one of the logs. Then it will be another entry on that day in the Calendar without the weekday after the date.
+- The aim is to create as many [[Atomic notes]] as possible. Otherwise interesting stuff will just be linked from a (potentially long) daily entry and can only be accessed via backlink to the daily entry.
+- If there is an atomic thought in the daily log, outsource it into an atomic card.

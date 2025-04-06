@@ -1,0 +1,5 @@
+- [The Crown and misinformation].(https://www.thearticle.com/do-docudramas-feed-a-culture-of-misinformation).
+	- *What is called “fictional dramatisation” is feeding a culture of misinformation.  [[Truth]] is becoming the collateral damage of the communications revolution and the quest for power and profit.*
+	- *In this [[Post-truth]] world, disclaimers are overlooked and cultural leaders seem to be parting company with facts in search of ratings.*
+- in reference to creative fantasies [[The Crown]]
+- Also about speculation in [[movie]] about [[Emily Brontë]] and her potential affairs. 

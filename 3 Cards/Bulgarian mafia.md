@@ -1,0 +1,2 @@
+- [https://www.politico.eu/article/bulgaria-how-it-became-mafia-state-of-eu/](https://www.politico.eu/article/bulgaria-how-it-became-mafia-state-of-eu/)
+- Nach mehreren Reisen nach Bulgarien scheint die Mafia immer noch praesent zu sein

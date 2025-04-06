@@ -1,0 +1,1 @@
+https://learnoutlive.com/kindle-vocabulary-builder-anki-flashcards/

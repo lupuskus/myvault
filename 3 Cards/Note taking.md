@@ -1,0 +1,11 @@
+## Systems
+- [[NOMA]]
+- Zettelkasten
+	- [[Sönke Ahrens - How to take smart notes]]
+	- [[Niklas Luhmann]]
+	- [[Obsidian]]
+	- get access to old [[evernote]] notes
+	- get old [[onenote]] notes from local windows
+- [[Atomic notes]] vs encyclopedic notes
+- [[QEC method]]
+- 

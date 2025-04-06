@@ -1,0 +1,1 @@
+https://www.masterclass.com/articles/push-press-guide: heel are allowed to be slightly off the ground. 

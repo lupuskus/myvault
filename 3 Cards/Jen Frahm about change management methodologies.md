@@ -1,0 +1,7 @@
+- [[Jen Frahm]]
+- [[Change management methodologies]] outline
+	- how to come up with the change idea
+	- how to build the solution, prototyping
+	- how to prepare people that are affected by the change and create readiness
+	- how to excute change (deployment)
+	- how to support post-change (hypercare)

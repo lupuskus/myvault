@@ -1,0 +1,11 @@
+- #history 
+- See [Encyclopaedia Britannica article](https://www.britannica.com/biography/Charles-II-king-of-Great-Britain-and-Ireland/Foreign-policy)
+- 1630 - 1685, London), King from 1660. Son of Charles I
+- In exile until Oliver Cromwell died. 
+- Merry Monarch, lifting of Puritan restrictions
+- mistress actress [Nell Gwyn](https://en.m.wikipedia.org/wiki/Nell_Gwyn)
+- [Treaty of Dover](https://en.m.wikipedia.org/wiki/Secret_Treaty_of_Dover)
+	- 1670
+	- Secret agreement with Louis XIV forcing him to convert at some time.
+	- Started 3rd Anglo-Dutch War, which was favourable for the Dutch 
+- No heir, succession by his brother James II led to glorious revolution in 1688

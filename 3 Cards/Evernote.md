@@ -1,0 +1,2 @@
+- [Evernote online](https://www.evernote.com/Home.action?login=true#n=40e63f19-eb7c-4afb-ba1f-28912cfdce03&s=s3&ses=4&sh=2&sds=5&)
+- Count all the notes and the time scale

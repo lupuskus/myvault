@@ -1,0 +1,3 @@
+- complicated system require attention to detail
+- Complex system require attention to the system as a whole
+- [Article on research gate](https://www.researchgate.net/publication/272353040_Complexity_Theory)

@@ -1,0 +1,2 @@
+- [Karl Albrecht - Psychology today](https://hyp.is/go?url=https%3A%2F%2Fwww.psychologytoday.com%2Fus%2Fblog%2Fbrainsnacks%2F201301%2Fthe-only-seven-spiritual-principles-we-need-succeed&group=__world__)
+- 

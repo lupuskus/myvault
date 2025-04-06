@@ -1,0 +1,4 @@
+- eMacs for android only via termux ->awkward
+- Vim for android ->seems to have a bug
+- joplin -> has a database instead of working with files
+- Markor markdown editor -> works with markdown files as obsidian does

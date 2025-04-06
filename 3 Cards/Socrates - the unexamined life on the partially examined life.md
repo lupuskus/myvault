@@ -1,0 +1,10 @@
+- [podcast](https://podcasts.apple.com/gb/podcast/the-partially-examined-life-philosophy-podcast/id318345767?i=1000370692452)
+	- Challenges to Socrates
+		- How can a contemplative life be of the highest value if your family starves [[202306110835 Maslow's hierarchy of needs]]
+		- His arguments are often set up, artificial and have logical fallacies. For instance asking for yes/no answers when a there are actually more options
+		- Dishonest
+			- Deliberate martyr who cares for fame after death
+			- Pretended not-knower 
+			- pretended non rhetorical person
+		- wrongly thinking that talking about things with people who are young or have a different opinion would (necessarily) shape/change their views
+- [[plato - apology]]

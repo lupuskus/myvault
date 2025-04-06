@@ -1,0 +1,5 @@
+- surround search in forward slashes / ... /
+- help for [regular expressions in searches](https://help.obsidian.md/Plugins/Search)
+- examples:
+	- /\d{4}-\d{2}-\d{2}/ searches for dates in the format yyyy-mm-dd
+	- -/\[\[ searches for notes without internal (forward) links in it

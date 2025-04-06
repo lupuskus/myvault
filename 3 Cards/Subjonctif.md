@@ -1,0 +1,2 @@
+- Subjunctive endings (- e, -es, -e, -ions, -iez, -ent )
+- dropping the -ent from the third-person plural present indicative form.

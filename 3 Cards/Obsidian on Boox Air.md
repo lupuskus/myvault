@@ -1,0 +1,6 @@
+- Managed to configure [[Syncthing]] for [[Boox Air]].
+- Initially Obsidian was not starting on it.
+- Had to un- and re-install. and It worked.
+- I will use it mainly as reading system
+- Only creating stand alone notes. 
+- Not editing

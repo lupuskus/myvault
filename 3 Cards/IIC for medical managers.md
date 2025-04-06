@@ -1,0 +1,5 @@
+- Mandatory training
+- Contacts
+- Inpatient beds/LOS/Admissions etc
+- SI reports/incidents
+- Team/consultant case loads, time on case lead

@@ -1,0 +1,3 @@
+- check [[Heatmap test]]
+- check [[Dataview test]]
+- keep it simple and manual

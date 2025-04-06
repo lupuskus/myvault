@@ -1,0 +1,4 @@
+- https://fs.blog/mental-framework/
+- https://medium.com/@intentionally/the-power-of-framework-thinking-9f81f4f2f945
+- https://frameworkthinking.eu/
+- they seem to all come from the business world

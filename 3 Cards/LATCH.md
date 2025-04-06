@@ -1,0 +1,9 @@
+- https://nicolevanderhoeven.com/blog/20221104-how-to-organize-your-notes-in-obsidian/
+- https://medium.com/@niveditachandra/latch-information-architecture-from-the-eyes-of-an-urban-indian-user-efd474a7bb37
+- Richard Saul Wurman — [Information Anxiety](zotero://select/library/items/V8QKUU6X). and [Information Anxiety 2](zotero://select/library/items/R4NADHII)
+- LATCH
+	- Location
+	- Alphabet
+	- Time
+	- Category
+	- Hierarchy

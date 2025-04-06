@@ -1,0 +1,2 @@
+- https://docs.obsidian.md/Plugins/Getting+started/Build+a+plugin
+- Follow chatgpt advice or the above test

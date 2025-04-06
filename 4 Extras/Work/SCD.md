@@ -1,0 +1,10 @@
+[[SCD]]
+[[Clinical network]]
+[[Work]]
+![[SCD workplan.jpeg]]
+![[SCD.pdf]]
+![[SCD SDM development day.pdf]]
+![[Clinical network.jpeg]]
+
+![[processed-42580A1C-46C1-4712-8F4D-F4848FF1443D.jpeg]]
+![[processed-603A1379-EAFA-40F5-84F0-2FCC725EF8AA.jpeg]]

@@ -1,0 +1,12 @@
+ - [Reading](https://fr.euronews.com/2022/11/15/la-terre-compte-desormais-huit-milliards-dhabitants-dapres-lonu) about world population 
+
+- exceeding 8 billion
+	- 1 billion in 1800
+	- 2.5 in 1950
+	- 8 later this year
+	- 9 in 2037
+	- 10.4 in 2080
+	- then stagnation
+	- India (1.4 billion) will become most populated country in 2023
+	- in 2050 more than half the population will live in 8 countries (Congo, Egypte, Ethiopie, Inde, Nigeria, Pakistan, Philippines et Tanzanie). What about China?
+	- by the end of the century the biggest cities will be Lagos, Kinshasa (Kongo) and Dar Es Salaam (Tanzania)

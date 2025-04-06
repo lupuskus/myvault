@@ -1,0 +1,3 @@
+- AA **Policy Number:** E11/CP498295K **Period of Cover**: 11/05/2023 - 10/05/2024 (email 7/5/23 to googlemail)
+- First2Protect HH01132459
+- It looks that (hopefully on last year) we paid for two insurances.

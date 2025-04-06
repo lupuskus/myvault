@@ -1,0 +1,4 @@
+- https://www.uk-saunas.co.uk/
+- https://www.oceanic-saunas.co.uk/sauna/outdoor-saunas.html
+- https://www.aqualinesaunas.co.uk/
+- https://www.outdoorwellness.co.uk/outdoor-garden-saunas-sale-uk/

@@ -1,0 +1,7 @@
+- Note making, insteat of notetaking
+- If you encounter something, ask yourself:
+	- is it interesting?
+	- what does it remind me of?
+	- what is similar?
+	- what is different?
+	- why is it important?

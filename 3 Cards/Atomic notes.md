@@ -1,0 +1,3 @@
+- [Discussion about atomic notes](https://forum.obsidian.md/t/debating-the-usefulness-of-atomic-notes-a-novel-pragmatic-obsidian-based-approach-to-pkm-strategies/38077)
+- Youtube video
+- [Alexis Rondeau](https://publish.obsidian.md/alexisrondeau/Atomic+notes)

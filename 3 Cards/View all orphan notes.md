@@ -1,0 +1,3 @@
+- https://forum.obsidian.md/t/view-all-orphan-notes/11829
+- search for -/\[\[ (I don't fully understand the regex. minus in front and no closing slash)
+- Done! [[Orphans MOC]]

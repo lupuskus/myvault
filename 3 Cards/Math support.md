@@ -1,0 +1,4 @@
+- Let $a \ne 0$
+- Let $$a \ne 0$$
+- see [Help](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
+- 

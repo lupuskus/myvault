@@ -1,0 +1,2 @@
+- Ethos, pathos and logos
+- Credibility, emotions, logic

@@ -1,0 +1,2 @@
+- [HBR article](https://hbr.org/2014/05/is-it-better-to-be-strategic-or-opportunistic)
+- [[Portacabin PDSA cycle]]
